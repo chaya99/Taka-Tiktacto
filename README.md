@@ -1,2 +1,0 @@
-# Taka-Tiktacto
-Taka Tiktacto
